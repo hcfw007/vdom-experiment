@@ -1,0 +1,23 @@
+{
+  "name": "vdom-experiment",
+  "version": "0.1.0",
+  "description": "my little experimental vdom",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcfw007/vdom-experiment.git"
+  },
+  "author": "Nick Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hcfw007/vdom-experiment/issues"
+  },
+  "homepage": "https://github.com/hcfw007/vdom-experiment#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1"
+  }
+}
