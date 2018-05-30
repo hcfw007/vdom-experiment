@@ -4,6 +4,7 @@
   "description": "my little experimental vdom",
   "main": "bundle.js",
   "scripts": {
+    "compile": "babel index.js --out-file compiled.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
